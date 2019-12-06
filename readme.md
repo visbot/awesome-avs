@@ -54,6 +54,8 @@ A list of non-integrated tools to use AVS
 
 ## Teams
 
+Back in the days, there were groups of artist
+
 ### [AVSociety](https://www.deviantart.com/avsociety)
 > First formal group of AVS artists from all around the world
 
@@ -66,6 +68,8 @@ A list of non-integrated tools to use AVS
 
 ## Resources
 
+Noteworthy resources
+
 ### [AVS Forum](http://forums.winamp.com/forumdisplay.php?f=85)
 > The official forum at winamp.com
 
@@ -74,6 +78,10 @@ A list of non-integrated tools to use AVS
 
 ### [VISBOT Archive](http://archive.visbot.net/)
 > Directory of many preserved AVS packs
+> Legacy resources of Winamp media player
+
+### [Wikipedia](https://www.wikiwand.com/en/Advanced_Visualization_Studio)
+> From Wikipedia, an article that relies too much on references to primary sources &#x1F606;
 
 ### [AVS Forum Mirror](http://visbot.github.io/AVS-Forums/)
 > Out-of-date, static mirror of the [AVS Forum](#avs-forum)
@@ -86,6 +94,8 @@ A list of non-integrated tools to use AVS
 
 
 ## Media
+
+AVS in the media
 
 ### [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o)
 > Video of Steven Wittens' talk at Web Directions South 2013
