@@ -27,6 +27,7 @@
     - [Wikipedia](#wikipedia)
     - [AVS Forum Mirror](#avs-forum-mirror)
     - [Acko.net Blog](#ackonet-blog)
+    - [VISBOT AVS Mirror](#visbot-avs-mirror)
     - [VISBOT Documentation Mirror](#visbot-documentation-mirror)
 - [Media](#media)
     - [Making things with maths](#making–things-with-maths)
@@ -111,6 +112,9 @@ Noteworthy resources
 
 ### [Acko.net Blog](http://acko.net/blog/avs/)
 > Steven Wittens aka UnConeD writes about Advanced Visualization Studio
+
+### [VISBOT AVS Mirror](http://avs.visbot.net/)
+> Various versions of AVS and modifications
 
 ### [VISBOT Documentation Mirror](http://docs.visbot.net/)
 > A collection of preserved AVS documentation and tutorials
