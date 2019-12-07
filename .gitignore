@@ -1,0 +1,11 @@
+# Package Managers
+bower_components/
+node_modules/
+vendor/
+npm-debug.log*
+yarn-error.log
+yarn.lock
+
+# Project-specific
+test.md
+todo.md

@@ -1,0 +1,13 @@
+# Folders
+.circleci/
+test/
+
+# Development
+.editorconfig
+.gitignore
+.markdownlintrc
+.travis.yml
+
+# Project-specific
+test.md
+todo.md
