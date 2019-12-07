@@ -1,0 +1,30 @@
+{
+  "name": "@visbot/awesome-avs",
+  "version": "1.0.0",
+  "license": "CC0",
+  "description": "A curated list about Winamp's AVS plug-in",
+  "author": {
+    "name": "@visbot",
+    "url": "http://github.com/visbot"
+  },
+  "homepage": "https://visbot.github.io/awesome-avs/",
+  "bugs": {
+    "url": "https://github.com/visbot/awesome-avs/blob/master/contributing.md"
+  },
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visbot/awesome-avs.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "winamp",
+    "winamp avs",
+    "avs",
+    "visualization"
+  ]
+}
