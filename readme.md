@@ -147,7 +147,6 @@ AVS in the media
 ### [visboTVisbot](https://www.youtube.com/channel/UC_BDAztuvgB1jwhExqA8VlA)
 
 > The VISBOT channel on YouTube
-> A Vimeo channel run by VISBOT
 
 ### [Effekthasch](https://vimeo.com/effekthasch)
 
