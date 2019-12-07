@@ -3,6 +3,7 @@
 test/
 
 # Development
+_config.yml
 .editorconfig
 .gitignore
 .markdownlintrc
