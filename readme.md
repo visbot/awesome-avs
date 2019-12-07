@@ -4,7 +4,8 @@
 
 ## Contents
 
-- [Source Code](#source-code- [vis_avs](#vis_avs)
+- [Source Code](#source-code)
+  - [vis_avs](#vis_avs)
   - [chavs](#chavs)
   - [vis_avs_dx](#vis_avs_dx)
 - [AVS in the browser](#avs-in-the-browser)
